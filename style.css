@@ -27,7 +27,7 @@ p {
     /*  this is where the magic happens:  */
     background-attachment: fixed;
   
-    background-image: url('./img/leo\ 1.png');
+    background-color: white;
     background-position: center center;
     background-size: contain;
     color: var(--color);
@@ -42,7 +42,7 @@ p {
     /*  this is where the magic happens:  */
     background-attachment: fixed;
   
-    background-image: url('./img/leo 1.png');
+    background-color: white;
     background-position: center center;
     background-size: contain;
     color: var(--color);
@@ -66,9 +66,9 @@ header {
 video {
     border: #21242b solid 10px;
 }
-.hero-video{
+/* .hero-video{
     margin-top: 100vh;
-}
+} */
 a {
     text-decoration: none !important;
 }
